@@ -34,12 +34,12 @@ Drafting This Dashboard Suite Was a Wild Ride! Inspired by Maven Analytics, it p
 -  Hermanos drives the highest revenue; pricing tweaks could boost profits by $612.12 and lower return rates.
 
 ## Screenshots
-![Overview - Topline Performers](<img width="878" height="503" alt="Maven Market TP" src="https://github.com/user-attachments/assets/7b166a8b-0a4e-4214-ac90-ee4e33b4e7b9" />
+![Overview - Topline Performers](image/<img width="878" height="503" alt="Maven Market TP" src="https://github.com/user-attachments/assets/7b166a8b-0a4e-4214-ac90-ee4e33b4e7b9" />
 )
 
-![Deep Dive - Transaction Trends and Impacts](<img width="873" height="488" alt="Maven Market SDR" src="https://github.com/user-attachments/assets/c7064c8d-0c0f-4d3a-b433-aa4637230c47" />
+![Deep Dive - Transaction Trends and Impacts](image/<img width="873" height="488" alt="Maven Market SDR" src="https://github.com/user-attachments/assets/c7064c8d-0c0f-4d3a-b433-aa4637230c47" />
 )
 
-![Geo-KPIs Frontier](<img width="867" height="488" alt="Maven Market Maps" src="https://github.com/user-attachments/assets/c99b48d3-bfa3-4f7e-b7f5-e94fa6d87b9d" />
+![Geo-KPIs Frontier](image/<img width="867" height="488" alt="Maven Market Maps" src="https://github.com/user-attachments/assets/c99b48d3-bfa3-4f7e-b7f5-e94fa6d87b9d" />
 )
 This suite breaks down Maven Market data by geography (maps) and performance (KPIs).
