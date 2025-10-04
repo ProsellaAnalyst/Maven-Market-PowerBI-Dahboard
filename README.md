@@ -64,19 +64,25 @@ It pushed me to grow in **data modeling, DAX logic,** and **storytelling design.
 ## 🖼️ Dashboard Screenshots  
 
 ### 📊 Overview – Topline Performers  
-<img width="878" height="503" alt="Maven Market TP" src="https://github.com/user-attachments/assets/7b166a8b-0a4e-4214-ac90-ee4e33b4e7b9" />  
+<img width="878" height="503" alt="Maven Market TP" src="https://github.com/user-attachments/assets/7b166a8b-0a4e-4214-ac90-ee4e33b4e7b9" /> 
+
+
 *✨ Maven Market TP Dashboard*
 
 ---
 
 ### 🔎 Deep Dive – Transaction Trends & Impacts  
-<img width="873" height="488" alt="Maven Market SDR" src="https://github.com/user-attachments/assets/c7064c8d-0c0f-4d3a-b433-aa4637230c47" />  
+<img width="873" height="488" alt="Maven Market SDR" src="https://github.com/user-attachments/assets/c7064c8d-0c0f-4d3a-b433-aa4637230c47" /> 
+
+
 *📉 Maven Market SDR Dashboard*
 
 ---
 
 ### 🌍 Geo-KPIs Frontier  
 <img width="867" height="488" alt="Maven Market Maps" src="https://github.com/user-attachments/assets/c99b48d3-bfa3-4f7e-b7f5-e94fa6d87b9d" />  
+
+
 *🗺️ Maven Market Maps Dashboard — breaking down performance by geography & KPIs.*
 
 ---
