@@ -1,4 +1,4 @@
-# Maven-Market-PowerBI-Dahboard
+# Maven-Market-PowerBI-Dashboard
 Impact on Maven Market through thorough data analysis with three stunning dashboards!
 
 
@@ -35,12 +35,20 @@ Drafting This Dashboard Suite Was a Wild Ride! Inspired by Maven Analytics, it p
 
 ## Screenshots
 ![Overview - Topline Performers] (image/<img width="878" height="503" alt="Maven Market TP" src="https://github.com/user-attachments/assets/7b166a8b-0a4e-4214-ac90-ee4e33b4e7b9" />
-)*📊 Maven Market TP*
+)
+
+
+*📊 Maven Market TP*
 
 ![Deep Dive - Transaction Trends and Impacts] (image/<img width="873" height="488" alt="Maven Market SDR" src="https://github.com/user-attachments/assets/c7064c8d-0c0f-4d3a-b433-aa4637230c47" />
 )
+
+
 *🔍 Maven Market SDR*
 
 ![Geo-KPIs Frontier] (image/<img width="867" height="488" alt="Maven Market Maps" src="https://github.com/user-attachments/assets/c99b48d3-bfa3-4f7e-b7f5-e94fa6d87b9d" />
-) *🌍 Maven Market Maps*
+) 
+
+
+*🌍 Maven Market Maps*
 This suite breaks down Maven Market data by geography (maps) and performance (KPIs).
